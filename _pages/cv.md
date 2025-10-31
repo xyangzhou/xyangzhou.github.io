@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Xinyang Zhou"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+- **Email:** x.y.zhou2020@gmail.com
+- **Google Scholar:** https://scholar.google.com/citations?user=yvw4X_sAAAAJ
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**University of Electronic Science and Technology of China, 2022-2026**  
+B.S. in Computer Science and Technology, UESTC Everest program (top-talented program in China)  
+Supervised by [Prof. Wen Li](https://wenli-vision.github.io/) and [Prof. Lixin Duan](http://lxduan.info/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**National University of Singapore, 2025-2026**  
+Research Assistant  
+Supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+### Spurious Correlation in Video Moment Retrieval
+**ICCV 2025** • [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_The_Devil_is_in_the_Spurious_Correlations_Boosting_Moment_Retrieval_ICCV_2025_paper.pdf)  
+**Xinyang Zhou*** , Fanyue Wei* , Lixin Duan, Angela Yao, Wen Li
+
+Services, Scholarship & Competition
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+- **Reviewer:** CVPR, WACV
+- **Undergraduate Special Scholarship (2025):** University of Electronic Science and Technology of China
+- National College Computer Ability Challenge: First Prize in Sichuan Province
+- Lanqiao Cup (Software & IT): Second Prize in Sichuan Province
+- Tencent AI Arena Awards: Third Prize in Sichuan Province
