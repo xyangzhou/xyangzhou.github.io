@@ -35,7 +35,7 @@ I’m a XNFJ.
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=924&t=tt&d=4UROjlIBnxvDY2UaGD-nMXz_72TJY_7Hcbk_1ISU6uU&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=680&t=tt&d=4UROjlIBnxvDY2UaGD-nMXz_72TJY_7Hcbk_1ISU6uU&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
 
 [//]: # (<a href="https://clustrmaps.com/site/1c8d3"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=4UROjlIBnxvDY2UaGD-nMXz_72TJY_7Hcbk_1ISU6uU&cl=ffffff" /></a>)
 
