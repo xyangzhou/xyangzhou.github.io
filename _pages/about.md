@@ -6,11 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Xinyang Zhou. I am a final-year undergraduate student at the [Data Intelligence Group](https://diggers.ai/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Everest program (National top-talented program in UESTC), supervised by [Prof. Wen Li](https://wenli-vision.github.io/) and [Prof. Lixin Duan](http://lxduan.info/). I am also a research assistant at the National University of Singapore(NUS), under the supervision of [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/).
+My name is Xinyang Zhou. I am a final-year undergraduate student at the [Data Intelligence Group](https://diggers.ai/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Everest program (National top-talented program in UESTC), supervised by [Prof. Wen Li](https://wenli-vision.github.io/) and [Prof. Lixin Duan](http://lxduan.info/). I am currently interning at the National University of Singapore(NUS), under the supervision of [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/).
 
-My research currently focuses on Physical AI and Multimodal Learning, including Physically consistent Video Generation, Video Understanding, etc. My research will focus on learning physical world
-models and model–environment interaction within generative frameworks. I do believe that progress
-in physically grounded world modeling is a promising path toward Artificial General Intelligence.
+My research currently focuses on Video Generation and Multimodal Learning.
 
 Selected Publications
 ======
@@ -22,7 +20,7 @@ _ICCV_, 2025 &emsp; [Project Page](https://xyangzhou.github.io/TD-DETR/)
 
 Experiences
 ======
-Research assistant, under the supervision of [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/), National University of Singapore, Singapore, Nov 2025 - Apr 2026.
+Internship, under the supervision of [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/) and [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/), National University of Singapore, Singapore, Dec 2025 - May 2026.
 
 Services
 ======
